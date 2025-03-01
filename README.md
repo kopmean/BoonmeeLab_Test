@@ -31,3 +31,44 @@ You can install these dependencies using pip:
 
 ```bash
 pip install pandas numpy
+```
+### Running the Code on Google Colab
+
+1. Open the notebook in Google Colab by clicking the button below:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kopmean/BoonmeeLab_Test/blob/main/Boonmee_DA_test.ipynb)
+
+2. Once the notebook is open, run the first few cells to install the necessary libraries and download the data using `gdown`:
+```bash
+!gdown ljVwj14b2fndW3Uj9smTUnfbdhLnF9g9t  # Download transaction.csv
+!gdown itfZZlnYFdtOTrlr_xD86FFGwgZzsREQ6  # Download user.csv
+```
+3. Continue running the remaining cells in the notebook to process the data and generate the output.
+
+## Output
+
+The output is a CSV file named `output.csv` with the following columns:
+
+- `trip_id`
+- `user_id`
+- `start_date`
+- `end_date`
+- `province_list`
+
+## Questions and Answers
+
+The answers to the assignment questions are provided in the notebook and can be exported as a PDF for submission.
+
+## Submission
+
+- **Code**: The Jupyter Notebook and any additional scripts.
+- **Output**: The generated CSV file.
+- **Answers**: A PDF document with the answers to the assignment questions.
+
+## Acknowledgments
+
+- Thanks to **BoonmeeLab**:bar_chart: for providing the data and the assignment.
+- Special thanks to the open-source community for the libraries used in this project.
+
+## Contact
+
+For any questions or further information, please contact **Sira Attawanich** at kopsira@gmail.com.
