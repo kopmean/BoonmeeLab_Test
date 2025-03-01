@@ -1,6 +1,6 @@
 # BoonmeeLab Data Assignment: Thai Travel Thailand (TTT)
 
-This repository contains the code and analysis for the data assignment provided by BoonmeeLab. The task involves analyzing user travel data from the Thai Travel Thailand (TTT) app to derive insights and answer specific business questions.
+This repository contains the code and analysis for the data assignment provided by **BoonmeeLab**:bar_chart:. The task involves analyzing user travel data from the Thai Travel Thailand (TTT) app to derive insights and answer specific business questions.
 
 ## Project Overview
 
