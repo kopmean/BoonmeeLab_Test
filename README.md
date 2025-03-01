@@ -1,5 +1,5 @@
 # BoonmeeLab Data Assignment: Thai Travel Thailand (TTT)
-![BoonmeeLab Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.boonmeelab.com%2F&psig=AOvVaw0NV58ZQlNHkSOB4VvW5G-l&ust=1740891652726000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjKj_aM6IsDFQAAAAAdAAAAABAQ)
+![BoonmeeLab Logo](https://cms.boonmeelab.com/uploads/large_BML_79a6bf48a3.png)
 
 This repository contains the code and analysis for the data assignment provided by **BoonmeeLab**:bar_chart:. The task involves analyzing user travel data from the Thai Travel Thailand (TTT) app to derive insights and answer specific business questions.
 
